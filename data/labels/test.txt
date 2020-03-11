@@ -1,0 +1,10 @@
+data/labels/test/0000t1.jpg
+data/labels/test/0000t2.jpg
+data/labels/test/0000t3.jpg
+data/labels/test/0000t4.jpg
+data/labels/test/0000t5.jpg
+data/labels/test/0000t6.jpg
+data/labels/test/0000t7.jpg
+data/labels/test/0000t8.jpg
+data/labels/test/0000t9.jpg
+data/labels/test/0000t10.jpg

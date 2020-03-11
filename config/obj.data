@@ -1,0 +1,5 @@
+classes= 1  
+train  = data/labels/train.txt  
+valid  = data/labels/test.txt  
+names = config/obj.names  
+backup = backup/
